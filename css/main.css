@@ -1,0 +1,21 @@
+body{
+	background-image: url(../img/Sparrow.jpg);
+	font-family: 'Droid Sans', sans-serif;
+}
+p{
+	white-space:pre;
+	font-size:26px;
+	padding:0;
+	width:99%;
+}
+h2{
+	margin:0;
+	margin-top:140px;
+	font-size:50px;
+}
+h1{
+	font-family: 'Architects Daughter', monospace;
+	margin:0;
+	font-size:180px;
+	color:#34495e;
+}
